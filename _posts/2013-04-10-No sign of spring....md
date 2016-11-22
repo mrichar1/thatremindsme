@@ -19,7 +19,7 @@ Pollen substitute is easy to make - it's a simple protein and fat supplement, bo
 1 part Brewer's Yeast (inactivated)  
 1 part Dried Skimmed Milk Powder  
   
-[![Pollen Substitute]({{ site.BASE_PATH }}/assets/media/images/2013/04/IMG_5385-300x200.jpg)](/images/2013/04/IMG_5385.jpg)  
+[![Pollen Substitute]({{ site.BASE_PATH }}/assets/media/images/2013/04/IMG_5385-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2013/04/IMG_5385.jpg)  
   
 For every 500g of dry powder, add 1 litre of 2:1 syrup - which is make with approximately 1kg of sugar and 500ml of water. Mix together well to remove any big lumps while the syrup is still warm, and then leave to cool for an hour or two and allow the flours to absorb the liquid. Shape into rounds and flatten out between pieces of greaseproof paper. It is easiest to divide it up into approximately 100g pieces.  
   

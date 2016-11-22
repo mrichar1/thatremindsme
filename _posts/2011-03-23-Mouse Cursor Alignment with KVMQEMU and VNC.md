@@ -10,10 +10,10 @@ After getting repeatedly annoyed with the fact that the mouse pointer in vncview
 libvirt guest XML:  
   
 {% highlight text %}  
-  
-  
-...  
-  
+<devices>
+<input type='tablet' bus='usb'/>
+...
+</devices>
 {% endhighlight %}  
   
 Command-line:  

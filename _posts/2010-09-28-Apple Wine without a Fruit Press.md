@@ -13,40 +13,22 @@ Of course, apples are one of those free foods that are easy to come by - either 
   
 **Ingredients**  
   
-A big bag of apples - the more the better - maybe 6-10lbs as a minimum. They don't need to be quality eating ones, as long as they're not going mouldy.  
-Yeast  
-Pectolase/Pectin Enzyme  
-Water  
-Sugar  
+* A big bag of apples - the more the better - maybe 6-10lbs as a minimum. They don't need to be quality eating ones, as long as they're not going mouldy.  
+* Yeast  
+* Pectolase/Pectin Enzyme  
+* Water  
+* Sugar  
   
+**Method**
 
-
-  
-
-  1. Wash the apples to clean off any dirt and insects.
-  
-
-  2. Roughly chop them (quarters or smaller are best) and place in a fermenting bucket.
-  
-
-  3. Pour on cold water, a gallon at a time, until the apples are almost covered.
-  
-
-  4. For each gallon of water you added, add 1.5tsp of pectolase and yeast according to the instructions.
-  
-
-  5. Cover the bucket and place in a warm place for 7 days to allow the apples to break down and the yeast to start extracting the flavours.
-  
-
-  6. Strain of the liquid through muslin and discard the apple mush.
-  
-
-  7. For each gallon of liquid, add 2.5lbs of sugar and rack into demijohns, fitted with airlocks.
-  
-
-  8. Continue as for any other fruit wine, racking after 4-5 weeks.
-  
-
+1. Wash the apples to clean off any dirt and insects.
+2. Roughly chop them (quarters or smaller are best) and place in a fermenting bucket.
+3. Pour on cold water, a gallon at a time, until the apples are almost covered.
+4. For each gallon of water you added, add 1.5tsp of pectolase and yeast according to the instructions.
+5. Cover the bucket and place in a warm place for 7 days to allow the apples to break down and the yeast to start extracting the flavours.
+6. Strain of the liquid through muslin and discard the apple mush.
+7. For each gallon of liquid, add 2.5lbs of sugar and rack into demijohns, fitted with airlocks.
+8. Continue as for any other fruit wine, racking after 4-5 weeks.
   
   
 Apple wine is often cloudy when first racked off, clearing to a beautiful golden colour after a month or two. Of course, there's always a small risk that the wine might be contaminated from the start and turn vinegary, but then the resulting wine makes a great base for casseroles and soups (especially ham and lentil soup!)

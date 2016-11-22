@@ -77,4 +77,3 @@ The extra ingredients do the following: cream of tartar acidifies the solution, 
   
 Good luck finding a plant, and happy brewing!  
   
-[![Ginger Beer Plant on Foodista](http://cf.foodista.com/static/images/widget_logo.png)Ginger Beer Plant![](http://dyn.foodista.com/content/embed/z1.png?foodista_widget_QK3NY6DQ_HMRM7JBM)](http://www.foodista.com/recipe/QK3NY6DQ/ginger-beer-plant "Ginger Beer Plant on Foodista" )

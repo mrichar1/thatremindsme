@@ -12,7 +12,6 @@ One of the items in this collection was a beehive, and its an amazingly beautifu
 The beehive in question is here:  
   
 [Microbial Home - Urban Beehive](http://www.design.philips.com/philips/sites/philipsdesign/about/design/designportfolio/design_futures/design_probes/projects/microbial_home/urban_beehive.page "Microbial Home - Urban Beehive" )  
-![Microbial House - Beehive](http://newconsumerstore.com/wp-content/plugins/rss-poster/cache/fbc87_philips_microbe_house8.jpg)  
   
 I've tried to list what I think are the main issues with this design, from the perspectives of both bee and beekeeper. There may be some which the designers have thought round, but they don't seem immediately apparent... and of course there may be more issues that don't spring to mind as I write this!  
   

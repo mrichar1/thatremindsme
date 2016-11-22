@@ -41,7 +41,7 @@ Of course, I'm all in favour of people using these answers to give them a better
 
   
 _Rank the following Beltane Fire Society events in order of importance_  
-[![](/assets/media/images/2011/02/festivals.jpg)](/images/2011/02/festivals.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/festivals.jpg)](/images/2011/02/festivals.jpg)  
   
 Perhaps as expected, Beltane Samhuinn come in the top slots. However, there is much more indecision relating to the importance of the other festivals, though quarter days still outrank eighth days.  
   
@@ -51,7 +51,7 @@ Perhaps as expected, Beltane Samhuinn come in the top slots. However, there is m
 
   
 _Rank the following parts of the Beltane Fire Festival in order of importance._  
-[![](/assets/media/images/2011/02/parts.jpg)](/images/2011/02/parts.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/parts.jpg)](/images/2011/02/parts.jpg)  
   
 The traditional elements of the ancient Beltane all score highly - Gods and Goddesses, the Neid Fire and the Bonfire, with the modern Beltane performance aspects following.  
   
@@ -61,7 +61,7 @@ The traditional elements of the ancient Beltane all score highly - Gods and Godd
 
   
 _Rank the following Beltane groups in order of importance.[*]_  
-[![](/assets/media/images/2011/02/groups1.jpg)](/images/2011/02/groups1.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/groups1.jpg)](/images/2011/02/groups1.jpg)  
 A strong vote for the key roles of May Queen and Green Man, but also support for the less performance, more production oriented roles.  
   
 [*] Apologies to Photo and Video point for being missed out here - by the time I realised it was too late to add them in without affecting the results!  
@@ -72,7 +72,7 @@ A strong vote for the key roles of May Queen and Green Man, but also support for
 
   
 _Is it important to keep Beltane on Calton Hill?_  
-[![](/assets/media/images/2011/02/hill.jpg)](/images/2011/02/hill.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/hill.jpg)](/images/2011/02/hill.jpg)  
   
 This is an age-old debate, and it seems that although there is a majority in favour of keeping it on Calton Hill, it is not as strong a majority as is perhaps believed by the membership as a whole.  
   
@@ -82,7 +82,7 @@ This is an age-old debate, and it seems that although there is a majority in fav
 
   
 _Is it important to keep Beltane on April 30th (versus a 'floating' date e.g. 'first Saturday of May')?_  
-[![](/assets/media/images/2011/02/date.jpg)](/images/2011/02/date.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/date.jpg)](/images/2011/02/date.jpg)  
 Another recently debated question - the traditional date of Beltane also has a majority in support, though more than a quarter disagree.  
   
 
@@ -91,7 +91,7 @@ Another recently debated question - the traditional date of Beltane also has a m
 
   
 _What time of day should Beltane start?_  
-[![](/assets/media/images/2011/02/starttime.jpg)](/images/2011/02/starttime.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/starttime.jpg)](/images/2011/02/starttime.jpg)  
   
 No-one really wants to get up for an early start on Beltane morning, but there is equal weight behind moving Beltane to starting slightly earlier. in late afternoon or early evening. Whether this would also be accompanied by an earlier finish time, or a longer event, is for a different survey.  
   
@@ -101,7 +101,7 @@ No-one really wants to get up for an early start on Beltane morning, but there i
 
   
 _Have you ever been a member of the audience at Beltane?_  
-[![](/assets/media/images/2011/02/audience.jpg)](/images/2011/02/audience.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/audience.jpg)](/images/2011/02/audience.jpg)  
   
 Interestingly, a quarter of Beltane participants have never been a member of the audience. This might mean that we are sometimes performing to an audience that we don't fully understand.  
   
@@ -194,7 +194,7 @@ Median: 3
 
   
 _In what year did the last Beltane you were actively involved in take place?_  
-[![](/assets/media/images/2011/02/last.jpg)](/images/2011/02/last.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/last.jpg)](/images/2011/02/last.jpg)  
   
 Most participants had been active in Beltane in the last 3 years, with almost no people responding who hadn't taken part in the last 10 years.  
   
@@ -204,7 +204,7 @@ Most participants had been active in Beltane in the last 3 years, with almost no
 
   
 _How does your experience of recent Beltane Festivals meet with your expectations?_  
-[![](/assets/media/images/2011/02/expectations.jpg)](/images/2011/02/expectations.jpg)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2011/02/expectations.jpg)](/images/2011/02/expectations.jpg)  
   
 This data was a little hard to decide how to portray it. I've opted for a bar chart, which while perhaps not being the most obvious choice, clearly reflects the main finding - that the membership falls into a standard distribution (with a slightly positive bias) in terms of how they experienced Beltane compared with what they expected from it. This implies that we're not significantly over or under-selling Beltane to its participants.  
   
@@ -239,7 +239,7 @@ This was a bonus, or fun question, just to see what people would say. We had the
   
   
 See the following file for all the answers (slightly tweaked and anonymised, but hopefully without changing any of the meaning).  
-[Bonus Question Answers](/assets/media/images/2011/02/longanswers.txt)  
+[Bonus Question Answers]({{ site.BASE_PATH }}/assets/media/images/2011/02/longanswers.txt)  
   
   
 [*] Mid-survey I had to tweak things a bit, as I'd overlooked that someone might put 303 letters in the word RED! and make the survey software unhappy :-D  

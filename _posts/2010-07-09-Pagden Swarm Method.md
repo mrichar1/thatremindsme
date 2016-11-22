@@ -141,7 +141,7 @@ Artificial swarms are about as invasive a procedure as you can carry out - remov
   
 [1]. If you can, old hive off its usual site and put the new hive there before you begin. This way the flying bees will begin to occupy the new hive immediately, keeping them out of your way and making it easier to find the queen in the old hive before you transfer her across.  
   
-![Pagden Swarm Method](/assets/media/images/2010/07/pagden-swarm.png)  
+![Pagden Swarm Method]({{ site.BASE_PATH }}/assets/media/images/2010/07/pagden-swarm.png)  
 
 
 ### Things to note

@@ -12,7 +12,7 @@ We recently acquired some Dell PowerEdge servers (r410 and r510) at work and I w
 ### Setting up IPMI
 
   
-[![](/assets/media/images/2010/08/bios-300x168.png)](/images/2010/08/bios.png)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2010/08/bios-300x168.png)](/images/2010/08/bios.png)  
 
 
   
@@ -65,7 +65,7 @@ Now its time to connect to the server remotely.
   
 
   
-[![](/assets/media/images/2010/08/sensors-300x170.png)](/images/2010/08/sensors.png)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2010/08/sensors-300x170.png)](/images/2010/08/sensors.png)  
 You should now have access to the IPMI shell. Type **help** to see the available commands. Useful ones include **power**, **delloem**, and **sensor**.  
   
 If you need to access ipmitool via a script, simply add the command you wish to run on the end in place of 'shell'. To send the password for scripts, remove the _-a_ option and either use _-E_ and set the environment variable _IPMI_PASSWORD_ or use _-f passwd.txt_  
@@ -128,7 +128,7 @@ _console=ttyS1,115200n8 console=tty0_
   
 
   
-[![](/assets/media/images/2010/08/bootsplash-300x167.png)](/images/2010/08/bootsplash.png)  
+[![]({{ site.BASE_PATH }}/assets/media/images/2010/08/bootsplash-300x167.png)](/images/2010/08/bootsplash.png)  
   
 When you now reboot and activate the sol console, you should see both the grub menu (and make different selections if necessary) and the full boot process of the OS, as well as providing you with a login prompt at the end. Note that the _timeout=5_ option will present the message 'press any key to continue' on both consoles for 5 seconds to allow that console to gain control of grub.  
   

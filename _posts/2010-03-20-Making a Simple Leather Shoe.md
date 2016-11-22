@@ -45,12 +45,12 @@ This does of course assume that you have some basic knowledge of leatherworking 
 **Stitching**  
   
 Begin joining at the toe - working back towards the heel in both directions, alternating from time to time to get an even finish. Keep testing it on your foot as you go.  
-![](/assets/media/images/2010/03/box-stitch.png)  
+![]({{ site.BASE_PATH }}/assets/media/images/2010/03/box-stitch.png)  
 To join the sole to the side you need to 'box stitch'. Hold sole at 90degrees to side - rough side pointing 'outwards' on both pieces. Stitch straight through the edge piece, into the side of the sole piece, and out the rough side. This means that the stitiches will be hidden when the shoe is turned inside out, and the rough leather will be inside the shoe.  
   
 Once you have gone all the way round the sole, you will have the vertical cut to stitch. Turn the shoe inside out now - if its difficult, you'll have to stitch this last vertical seam on the inside of the shoe - if it was easy, turn it back to being rough-side out for stitching.  
   
-![](/assets/media/images/2010/03/butt-stitch.png)  
+![]({{ site.BASE_PATH }}/assets/media/images/2010/03/butt-stitch.png)  
 Butt stitch (needle in through edge of leather seam, out through rough side on both sides) so that the stitch is hidden inside the shoe, all the way up.  
   
 Test the shoe for fit. If necessary extend the front slit over the top of the foot to allow easy access. Finish off by threading some thonging into slits across this to allow lacing up the shoe.  

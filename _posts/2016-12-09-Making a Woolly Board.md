@@ -9,7 +9,7 @@ Having just spent what felt like weeks waiting for a sweater to dry after blocki
 
 I subsequently discovered that you can get such a thing as a woolly board or sweater board - a kind of wooden frame to block a sweater on - however such things are expensive and hard to find!  So I set out to make my own, and thought I'd post some clear instructions, since the pictures and directions online are all a bit vague in places.
 
-[![Woolly Board]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board.jpg)
+[![Woolly Board]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board-600x400.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board.jpg)
 
 # Materials
 

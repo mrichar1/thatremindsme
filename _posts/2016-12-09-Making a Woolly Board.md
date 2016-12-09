@@ -13,7 +13,7 @@ I subsequently discovered that you can get such a thing as a woolly board or swe
 
 # Materials
 
-[![Materials]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials-600x400.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials.jpg)
+[![Materials]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials.jpg)
 
 * 6 rods (broom handles or equivalent will do): 90cm long, 25mm in diameter - for uprights and lower and upper arm bars.
 * 9 dowelling pieces:  5cm long, 6mm diameter - to make dowel pegs.

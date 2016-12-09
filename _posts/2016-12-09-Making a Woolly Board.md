@@ -67,3 +67,4 @@ You will also need a drill with 6 and  7mm wood drill bits.
 8. Thread the thin rod through the lower holes just below the body cuff, and pin or tie the cuff to the bar to achieve appropriate tension.
 9. To release the lower arm bars, simply pull down on the bar and slide up the washer to release.
 
+This first attempt came out a bit rough and ready, and if I was making another one I'd take more care about lining up the holes, drilling the correct number, and generally polishing it up a bit. (Those with keen eyes will notice I drilled 11 holes in one upright!). Additionally in this version, I used 60cm offcuts for the lower arm bars, which aren't quite long enough (hence why the sleeves are rolled up in the tension bolt detail). However I plan to replace these with 90cm bars, as I put in the instructions. However, the design is fully functional, and I look forward to blocking my next sweater on it!

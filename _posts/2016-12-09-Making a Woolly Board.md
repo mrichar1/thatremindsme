@@ -39,7 +39,7 @@ You will also need a drill with 6 and  7mm wood drill bits.
 
 1. Take 2 of the 90cm rods, drill a 6mm diameter, 2.5cm deep hole into one end of each rod. Insert a dowel peg into one of the ends. This allows these rods to be pinned together.
 2. On the side of each rod, starting at the 'join' end, drill 10 6mm diameter holes, centred 2.5cm apart, starting 10cm out from the join end. This is for the uprights to connect to.
-3. Drill 2 or 3 7mm holes, 2.5cm apart close to the outer end of each bar, on the same side as the upright holes. This is to slot the tension bolt into.
+3. Drill 3 or 4 7mm dimples, 5cm apart starting at the outer end of each bar, on the same side as the upright holes. This is to slot the tension bolt into.
 
 
 ## Base
@@ -50,7 +50,7 @@ You will also need a drill with 6 and  7mm wood drill bits.
 ## Lower Arm Bar
 
 1. Take 2 of the 90cm rods, drill a 6mm diameter hole through one end of each. This is to thread the string to tie to the uprights.
-2. At the other end, rotate the rod through 90 degrees, and drill a 6mm hole through the rod at around 35 to 40 degrees, starting at the end and angled back towards the join. This is for the tension bolts.
+2. At the other end, rotate the rod through 90 degrees, and drill 5 or 6 6mm hole through the rod at around 25-30 degrees, angled towards the body. This is for the tension bolts.
 
 # Assembly
 

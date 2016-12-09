@@ -9,11 +9,11 @@ Having just spent what felt like weeks waiting for a sweater to dry after blocki
 
 I subsequently discovered that you can get such a thing as a woolly board or sweater board - a kind of wooden frame to block a sweater on - however such things are expensive and hard to find!  So I set out to make my own, and thought I'd post some clear instructions, since the pictures and directions online are all a bit vague in places.
 
-[![Woolly Board]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board.jpg)
+[![Woolly Board]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board.jpg)
 
 # Materials
 
-[![Materials]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials.jpg)
+[![Materials]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_materials.jpg)
 
 * 6 rods (broom handles or equivalent will do): 90cm long, 25mm in diameter - for uprights and lower and upper arm bars.
 * 9 dowelling pieces:  5cm long, 6mm diameter - to make dowel pegs.
@@ -59,20 +59,15 @@ Notes:
 # Assembly
 
 1. Thread the upper arm bars through the sleeves of your sweater, joining with the dowelling in the centre.
+[![Upper arm bar]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_upper_arm-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_upper_arm.jpg)
 2. Insert the uprights into the body of the jumper, and pin to the upper arm bar at an appropriate point.
 3. Push the bottom of the jumper up the uprights to expose the lower arm holes.
 4. Insert the lower arm bars into the sleeves, and tie to the uprights at an appropriate point.
+[![Lower arm bar]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm.jpg)
 5. Pull the jumper body back down, pick up the frame by the uprights and pin to the holes on the base.
 6. Insert the tension bolts into the lower arm bars, with a washer sitting on top of the bar, and a nut above (to stop the bar falling out).
 7. Push the lower arm bars down to tension the sleeves. The washer should jam on the thread, stopping the bar from springing back up.
+[![Tension Bolt]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension.jpg)
 8. Thread the thin rod through the lower holes just below the body cuff, and pin or tie the cuff to the bar to achieve appropriate tension.
 9. To release the lower arm bars, simply pull down on the bar and slide up the washer to release.
 
-Upper arm bar in position:
-[![Upper arm bar]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_upper_arm.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_upper_arm.jpg)
-
-Lower arm bars tied in:
-[![Lower arm bar]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm.jpg)
-
-Tension Bolt in operation:
-[![Tension Bolt]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension.jpg)

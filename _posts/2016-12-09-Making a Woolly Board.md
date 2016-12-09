@@ -19,12 +19,12 @@ I subsequently discovered that you can get such a thing as a woolly board or swe
 * 9 dowelling pieces:  5cm long, 6mm diameter - to make dowel pegs.
 * 1 dowelling piece:  90cm long, 6mm diameter  - to make the bottom bar to pin the sweater body cuff to.
 *1 piece of scrap wood - at least 90cm long, and 3cm thick, of any width, to make a base/stand.
-* 2 long (25cm or more) M6 bolts or threaded rods. (M8 will also do, but you'll need an 8mm drill bit too).
-* 2 washers to fit thread.
-* 2 nuts to fit thread.
+* 2 long (25cm or more) stainless steel M6 bolts or threaded rods. (M8 will also do, but you'll need an 8mm drill bit too).
+* 2 washers to fit thread (also stainless steel).
+* 2 nuts to fit thread (also stainless steel).
 * String
 
-You will also need a drill with 6 and  7mm wood drill bits.
+You will also need a drill with 6 and 7mm wood drill bits.
 
 
 # Instructions
@@ -52,6 +52,14 @@ You will also need a drill with 6 and  7mm wood drill bits.
 1. Take 2 of the 90cm rods, drill a 6mm diameter hole through one end of each. This is to thread the string to tie to the uprights.
 2. At the other end, rotate the rod through 90 degrees, and drill 5 or 6 6mm hole through the rod at around 25-30 degrees (leaning the drill is enough, it doesn't need to be exact!), angled towards the body. This is for the tension bolts.
 
+## Finishing Up
+
+1. Thread string through the inner holes of the lower arm bars.
+2. Thread the bolts through the lower arms, with the washer and nut on top. The nut doesn't tighten anything - it's just there to stop the bolt falling out when not under tension.
+We're using stainless steel fittings as they're likely to get damp from the sweater, and we don't want anything to rust. If you can't get stainless fittings, then wooden dowels with some kind of rust-proof pin in place of the washer could work.
+3. Make sure to sand down all the wood after drilling, to remove any snags and burrs. You don't want the woolly board catching on your sweater and pulling it!
+
+
 # Assembly
 
 1. Thread the upper arm bars through the sleeves of your sweater, joining with the dowelling in the centre.
@@ -61,10 +69,9 @@ You will also need a drill with 6 and  7mm wood drill bits.
 4. Insert the lower arm bars into the sleeves, and tie to the uprights at an appropriate point.
 [![Lower arm bar]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_lower_arm.jpg)
 5. Pull the jumper body back down, pick up the frame by the uprights and pin to the holes on the base.
-6. Insert the tension bolts into the lower arm bars, with a washer sitting on top of the bar, and a nut above (to stop the bar falling out).
-7. Push the lower arm bars down to tension the sleeves. The washer should jam on the thread, stopping the bar from springing back up.
+6. Push the lower arm bars down to tension the sleeves. Slot the bolt into the notch on the upper arm bar, and let the washer fall down onto the top of the lower arm bar. The washer should jam on the thread, stopping the lower bar from springing back up from the sleeve tension.
 [![Tension Bolt]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension-300x200.jpg)]({{ site.BASE_PATH }}/assets/media/images/2016/12/woolly_board_tension.jpg)
-8. Thread the thin rod through the lower holes just below the body cuff, and pin or tie the cuff to the bar to achieve appropriate tension.
-9. To release the lower arm bars, simply pull down on the bar and slide up the washer to release.
+7. Thread the thin rod through the lower holes on the uprights just below the body cuff, and pin or tie the cuff to the bar to achieve appropriate tension.
+8. To release the lower arm bars, simply pull down on the bar and slide up the washer to release.
 
 This first attempt came out a bit rough and ready, and if I was making another one I'd take more care about lining up the holes, drilling the correct number, and generally polishing it up a bit. (Those with keen eyes will notice I drilled 11 holes in one upright!). You might also need to play about with the exact positioning of the tension bolt holes and notches, depending on the exact angle you drill at. However, the design is fully functional, and I look forward to blocking my next sweater on it!

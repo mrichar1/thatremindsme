@@ -50,7 +50,7 @@ You will also need a drill with 6 and  7mm wood drill bits.
 ## Lower Arm Bar
 
 1. Take 2 of the 90cm rods, drill a 6mm diameter hole through one end of each. This is to thread the string to tie to the uprights.
-2. At the other end, rotate the rod through 90 degrees, and drill 5 or 6 6mm hole through the rod at around 25-30 degrees, angled towards the body. This is for the tension bolts.
+2. At the other end, rotate the rod through 90 degrees, and drill 5 or 6 6mm hole through the rod at around 25-30 degrees (leaning the drill is enough, it doesn't need to be exact!), angled towards the body. This is for the tension bolts.
 
 # Assembly
 
@@ -67,4 +67,4 @@ You will also need a drill with 6 and  7mm wood drill bits.
 8. Thread the thin rod through the lower holes just below the body cuff, and pin or tie the cuff to the bar to achieve appropriate tension.
 9. To release the lower arm bars, simply pull down on the bar and slide up the washer to release.
 
-This first attempt came out a bit rough and ready, and if I was making another one I'd take more care about lining up the holes, drilling the correct number, and generally polishing it up a bit. (Those with keen eyes will notice I drilled 11 holes in one upright!). Additionally in this version, I used 60cm offcuts for the lower arm bars, which aren't quite long enough (hence why the sleeves are rolled up in the tension bolt detail). However I plan to replace these with 90cm bars, as I put in the instructions. However, the design is fully functional, and I look forward to blocking my next sweater on it!
+This first attempt came out a bit rough and ready, and if I was making another one I'd take more care about lining up the holes, drilling the correct number, and generally polishing it up a bit. (Those with keen eyes will notice I drilled 11 holes in one upright!). You might also need to play about with the exact positioning of the tension bolt holes and notches, depending on the exact angle you drill at. However, the design is fully functional, and I look forward to blocking my next sweater on it!

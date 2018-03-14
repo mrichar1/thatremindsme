@@ -26,6 +26,7 @@ I subsequently discovered that you can get such a thing as a woolly board or swe
 
 You will also need a drill with 6 and 7mm wood drill bits.
 
+(Note - I initially started with wooden dowel pegs - which can be seen in the pictures. However these are very fragile and snap easily, so I updated to using 6mm metal dowel pegs instead).
 
 # Instructions
 

@@ -38,5 +38,5 @@ tags_path: tags.html
 # sidebar_background_image:
 sidebar_image: /assets/media/images/woodwose.gif 
 
-gems:
+plugins:
   - jekyll-paginate

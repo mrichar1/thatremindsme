@@ -6,7 +6,7 @@ exclude: ["Gemfile", "Gemfile.lock"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 #disqus:
-#google_analytics:
+google_analytics: UA-6288441-3
 title: "That Reminds Me"
 
 defaults:

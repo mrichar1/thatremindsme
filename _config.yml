@@ -4,7 +4,7 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["Gemfile", "Gemfile.lock"] # files to exclude
 highlighter: rouge
-markdown: kramdown
+markdown: redcarpet
 #disqus:
 google_analytics: UA-6288441-3
 title: "That Reminds Me"

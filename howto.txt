@@ -1,0 +1,8 @@
+# Security updates
+bundle lock --update
+
+# Install gems as user
+bundle install --path ~/.gem
+
+# Run jekyll locally
+bundle exec jekyll serve
